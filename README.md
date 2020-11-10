@@ -1,2 +1,0 @@
-# belajar oop
-projek awal
